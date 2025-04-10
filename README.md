@@ -13,8 +13,8 @@ This project is a real-time face recognition attendance system built using Pytho
 - Runs fully offline
 - Built with Streamlit for UI
 
+```bash
 ## PROJECT STRUCTURE
---------------------
 
 FaceRecognitionAttendance/
 ├── data/
@@ -27,3 +27,4 @@ FaceRecognitionAttendance/
 ├── app.py                          # Main Streamlit application
 ├── requirements.txt                # Required packages
 ├── README.md                       # Project description
+```
